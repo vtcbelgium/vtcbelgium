@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+  <title id="title">Jeroen Pauwels — Web Development &amp; AI Automation</title>
+  <desc id="desc">Dark blue professional banner with teal and amber accents and abstract connection lines.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#101b34"/><stop offset="1" stop-color="#0d1224"/></linearGradient>
+    <linearGradient id="line" x1="0" x2="1"><stop offset="0" stop-color="#49d5c2"/><stop offset="1" stop-color="#82a8ff"/></linearGradient>
+  </defs>
+  <rect width="1200" height="280" fill="url(#bg)"/>
+  <path d="M0 252H1200 M0 42H1200 M965 0V280 M1040 0V280" stroke="#7386ae" stroke-opacity=".11"/>
+  <circle cx="1015" cy="140" r="100" stroke="#49d5c2" stroke-opacity=".24" fill="none" stroke-width="2"/>
+  <circle cx="1015" cy="140" r="67" stroke="#8aa8fb" stroke-opacity=".30" fill="none" stroke-width="2"/>
+  <circle cx="1015" cy="140" r="31" fill="#182b4c" stroke="#49d5c2" stroke-opacity=".6" stroke-width="2"/>
+  <path d="M903 139h224M1015 28v224M945 70l140 140M1085 70L945 210" stroke="url(#line)" stroke-opacity=".18" stroke-width="2"/>
+  <circle cx="1015" cy="140" r="6" fill="#49d5c2"/>
+  <circle cx="946" cy="67" r="7" fill="#f5bb73"/>
+  <circle cx="1123" cy="138" r="7" fill="#49d5c2"/>
+  <circle cx="978" cy="202" r="6" fill="#92a8ff"/>
+  <rect x="57" y="45" width="5" height="182" rx="3" fill="#49d5c2"/>
+  <text x="86" y="103" fill="#ffffff" font-size="49" font-weight="700" font-family="Arial, Helvetica, sans-serif" letter-spacing="1.5">JEROEN PAUWELS</text>
+  <text x="89" y="150" fill="#89dfd4" font-size="23" font-family="Arial, Helvetica, sans-serif">WEB DEVELOPMENT  /  AI AUTOMATION</text>
+  <text x="89" y="195" fill="#d4dbed" font-size="20" font-family="Arial, Helvetica, sans-serif">From people &amp; heritage to practical digital tools.</text>
+  <text x="89" y="235" fill="#a1aecb" font-size="15" font-family="Arial, Helvetica, sans-serif" letter-spacing="1">BELGIUM   ·   LEARNING BY BUILDING</text>
+</svg>
