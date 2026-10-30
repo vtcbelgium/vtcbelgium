@@ -16,10 +16,6 @@
 
 ## 👋 A little about me
 
-I'm making a **career switch into web development and AI automation** after working in **cultural heritage, technical operations and customer support**.
-
-Those experiences taught me to listen, solve practical problems, work with different people and explain complex things clearly. Now I'm bringing that perspective into technology.
-
 I'm studying **Web Fundamentals & AI Assistance at SyntraPXL**, as part of my full-stack development and AI automation learning path.
 
 I enjoy turning ideas into small, useful tools. I use AI to assist my development work, but I also want to **read, understand, test and explain the code**.
