@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/vtcbelgium/vtcbelgium/main/assets/profile-banner.svg" alt="Jeroen Pauwels — Web Development and AI Automation" width="100%" />
+<img src="https://raw.githubusercontent.com/vtcbelgium/vtcbelgium/main/assets/othrys-mythology-banner.png" alt="Greek mountains and mythology — Exploring AI Automation" width="100%" />
 
 ### Hi, I'm Jeroen 👋
 
