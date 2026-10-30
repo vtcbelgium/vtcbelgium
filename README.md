@@ -4,7 +4,7 @@
 
 ### Hi, I'm Jeroen 👋
 
-**Web Development Student · AI Automation Explorer · Building Useful Tools**
+**Full Stack Developer & AI Automation Student · AI Automation Explorer · Building Useful Tools**
 
 *Human perspective. Developer mindset. Learning by building.*
 
