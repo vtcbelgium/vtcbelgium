@@ -16,7 +16,7 @@
 
 ## 👋 A little about me
 
-I'm studying **Web Fundamentals & AI Assistance at SyntraPXL**, as part of my full-stack development and AI automation learning path.
+I'm studying **Full Stack Developer & AI Automation at SyntraPXL**
 
 I enjoy turning ideas into small, useful tools. I use AI to assist my development work, but I also want to **read, understand, test and explain the code**.
 
