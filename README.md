@@ -20,7 +20,7 @@ I'm studying **Full Stack Developer & AI Automation at SyntraPXL**
 
 I enjoy turning ideas into small, useful tools. I use AI to assist my development work, but I also want to **read, understand, test and explain the code**.
 
-> **My unique angle:** combining a people-first background with curiosity about technology — building tools that are useful, accessible and easy to understand.
+> **My unique angle:** combining a people-first background with curiosity about technology, building tools that are useful, accessible and easy to understand.
 
 ## 🛠️ What I'm learning and using
 
