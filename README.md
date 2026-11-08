@@ -9,6 +9,7 @@
 *Human perspective. Developer mindset. Learning by building.*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-othrys.be-19A99A?style=flat-square&logo=firefox&logoColor=white)](https://othrys.be/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jeroen_Pauwels-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeroen-pauwels/)
 [![Email](https://img.shields.io/badge/Contact-Email_Me-D9381E?style=flat-square&logo=gmail&logoColor=white)](mailto:vtcbelgium@gmail.com)
 [![Based in](https://img.shields.io/badge/Based_in-Belgium-415A77?style=flat-square)](https://github.com/vtcbelgium)
 
@@ -68,7 +69,7 @@ A collection of client-side utilities engineered with **zero server uploads**, u
 
 Beyond coding, I'm passionate about history, cultural heritage, and travel. I am actively looking for **internship opportunities** where I can contribute to real-world codebases, learn from experienced senior developers, and grow as a full-stack engineer.
 
-Feel free to explore my repositories or get in touch via [**vtcbelgium@gmail.com**](mailto:vtcbelgium@gmail.com) or [**othrys.be**](https://othrys.be/).
+Feel free to explore my repositories or get in touch via [**LinkedIn**](https://www.linkedin.com/in/jeroen-pauwels/), [**vtcbelgium@gmail.com**](mailto:vtcbelgium@gmail.com), or [**othrys.be**](https://othrys.be/).
 
 <div align="center">
 
