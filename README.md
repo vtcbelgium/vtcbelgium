@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/vtcbelgium/vtcbelgium/main/assets/othrys-mythology-banner.png" alt="Greek mountains and mythology — Exploring AI Automation" width="100%" />
 
-### Hi, I'm Jeroen Pauwels 👋
+### Hi 👋
 
 **Full Stack Developer & AI Automation Student · Privacy-First Web Utilities · Builder**
 
