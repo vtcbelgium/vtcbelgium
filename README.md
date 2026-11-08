@@ -34,23 +34,23 @@ I enjoy turning ideas into fast, privacy-respecting, client-side tools. I use mo
 - **Data & APIs:** SQL / MySQL, REST APIs, JSON, Fetch API, Web Crypto API
 - **Focus Areas:** Client-side privacy (zero server uploads), modular architecture, test-driven reliability
 
-## 🚀 Featured Open Source Tools
+## 🚀 Featured Tools & Open Source Projects
 
-A collection of client-side utilities engineered with **zero server uploads**, unit tests, and TypeScript:
+Here are five of my most interesting projects, built with a strong focus on **privacy-first architecture**, **client-side computing** (zero server data transmission), and **clean TypeScript & test-driven code**:
 
-| Project | What it does | Tech Stack | Links |
+| Project | Highlights & Capabilities | Tech Stack | Direct Links |
 | :--- | :--- | :--- | :--- |
-| 📄 **FillThisPDF** | Free browser-based PDF form filler with no account or paywall | `TypeScript` · `pdf-lib` · `Vite` | [Try it](https://vtcbelgium.github.io/fillthispdf-web/) · [Source](https://github.com/vtcbelgium/fillthispdf-web) |
-| 🔒 **Base64 Inspector** | Zero-upload Base64 encoder, decoder, and UTF-8 inspector | `TypeScript` · `Vitest` · `Vite` | [Source](https://github.com/vtcbelgium/base64) |
-| 📊 **CSV to JSON** | Fast in-browser CSV & TSV converter with real-time table preview | `TypeScript` · `Vitest` · `Vite` | [Source](https://github.com/vtcbelgium/csvtojson) |
-| 🛡️ **Hash Checker** | Cryptographic hash generator & file checksum verifier (SHA/MD5) | `TypeScript` · `Web Crypto` | [Source](https://github.com/vtcbelgium/hashchecker) |
-| 🔑 **UUID Generator** | RFC 4122 v4 cryptographically secure UUID generator | `TypeScript` · `Vitest` · `Vite` | [Source](https://github.com/vtcbelgium/uuidgen) |
+| 📄 **FillThisPDF** | Free browser-based PDF form filler. Fill, sign, and export forms privately with zero server uploads, no watermarks, and no signups. Multilingual support (EN / NL / FR). | TypeScript<br>pdf-lib<br>PDF.js<br>Vite | [🔗 **Live App**](https://vtcbelgium.github.io/fillthispdf-web/)<br>[💻 **Source Code**](https://github.com/vtcbelgium/fillthispdf-web) |
+| 🌍 **World Time** | Interactive world clock & timezone comparison tool. Fast city search, live UTC offset calculations, and visual day/night indicators. | JavaScript<br>REST APIs<br>CSS3<br>Responsive | [🔗 **Live App**](https://worldtime.othrys.be/)<br>[🏛️ **OTHRYS Web**](https://othrys.be/) |
+| 🔒 **Base64 Inspector** | Client-side Base64 encoder, decoder, and UTF-8 inspector. Features real-time byte breakdown, padding validation, and automated unit test suite. | TypeScript<br>Vitest<br>Vite<br>JSDOM | [💻 **Source Code**](https://github.com/vtcbelgium/base64)<br>[🧪 **Test Specs**](https://github.com/vtcbelgium/base64/tree/main/tests) |
+| 📊 **CSV to JSON** | Fast in-browser CSV & TSV converter. Auto-detects delimiters, handles quoted/escaped cells, provides an interactive table preview, and exports formatted JSON. | TypeScript<br>Vitest<br>DOM Testing<br>Vite | [💻 **Source Code**](https://github.com/vtcbelgium/csvtojson)<br>[🧪 **Test Specs**](https://github.com/vtcbelgium/csvtojson/tree/main/tests) |
+| 🛡️ **Hash Checker** | Cryptographic hash generator & file checksum verifier (SHA-256, SHA-512, MD5). Computes digests in-memory via browser Web Crypto API with drag-and-drop file verification. | TypeScript<br>Web Crypto<br>Vitest<br>Vite | [💻 **Source Code**](https://github.com/vtcbelgium/hashchecker)<br>[🧪 **Test Specs**](https://github.com/vtcbelgium/hashchecker/tree/main/tests) |
 
-### 🌐 Live Web Utilities (OTHRYS)
-- 🌍 [**World Time**](https://worldtime.othrys.be/) — Interactive world clock with time zone search and live comparison.
-- ⏱️ [**Unix Time**](https://unixtime.othrys.be/) — Practical Unix timestamp and date converter.
-- 🖼️ [**Shrink My Photo**](https://vtcbelgium.github.io/shrinkmyphoto-pages/) — Client-side image compression.
-- 📱 [**Free QR**](https://vtcbelgium.github.io/freeqr-pages/) — Quick in-browser QR code generation.
+### 🌐 Additional Live Utilities & Experiments ([OTHRYS](https://othrys.be/))
+- ⏱️ [**Unix Time**](https://unixtime.othrys.be/) — Live epoch timestamp and human-readable date converter.
+- 🔑 [**UUID Generator**](https://github.com/vtcbelgium/uuidgen) — Cryptographically secure RFC 4122 v4 UUID generator ([Source](https://github.com/vtcbelgium/uuidgen)).
+- 🖼️ [**Shrink My Photo**](https://vtcbelgium.github.io/shrinkmyphoto-pages/) — Private, browser-based image compression.
+- 📱 [**Free QR**](https://vtcbelgium.github.io/freeqr-pages/) — Instant client-side QR code generator.
 
 ## 🏛️ About OTHRYS
 
