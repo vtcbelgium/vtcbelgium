@@ -2,71 +2,76 @@
 
 <img src="https://raw.githubusercontent.com/vtcbelgium/vtcbelgium/main/assets/othrys-mythology-banner.png" alt="Greek mountains and mythology — Exploring AI Automation" width="100%" />
 
-### Hi, I'm Jeroen 👋
+### Hi, I'm Jeroen Pauwels 👋
 
-**Full Stack Developer & AI Automation Student · AI Automation Explorer · Building Useful Tools**
+**Full Stack Developer & AI Automation Student · Privacy-First Web Utilities · Builder**
 
 *Human perspective. Developer mindset. Learning by building.*
 
-[![My projects](https://img.shields.io/badge/Explore-My_Projects-19A99A?style=flat-square)](https://othrys.be/portfolio)
-[![GitHub](https://img.shields.io/badge/GitHub-vtcbelgium-222C43?style=flat-square&logo=github)](https://github.com/vtcbelgium)
-[![Belgium](https://img.shields.io/badge/Based_in-Belgium-415A77?style=flat-square)](https://github.com/vtcbelgium)
+[![Portfolio](https://img.shields.io/badge/Portfolio-othrys.be-19A99A?style=flat-square&logo=firefox&logoColor=white)](https://othrys.be/)
+[![Email](https://img.shields.io/badge/Contact-Email_Me-D9381E?style=flat-square&logo=gmail&logoColor=white)](mailto:vtcbelgium@gmail.com)
+[![Based in](https://img.shields.io/badge/Based_in-Belgium-415A77?style=flat-square)](https://github.com/vtcbelgium)
 
 </div>
 
 ## 👋 A little about me
 
-I'm studying **Full Stack Developer & AI Automation at SyntraPXL**
+I'm studying **Full Stack Development & AI Automation at SyntraPXL**.
 
-I enjoy turning ideas into small, useful tools. I use AI to assist my development work, but I also want to **read, understand, test and explain the code**.
+I enjoy turning ideas into fast, privacy-respecting, client-side tools. I use modern AI tooling to accelerate scaffolding and explore solutions, while keeping a strong focus on **code quality, deep understanding, automated testing, and clear architecture**.
 
-> **My unique angle:** combining a people-first background with curiosity about technology, building tools that are useful, accessible and easy to understand.
+> **My unique angle:** Combining a people-first background with genuine curiosity about technology to build tools that are reliable, accessible, and transparent.
 
-## 🛠️ What I'm learning and using
+## 🛠️ Tech Stack & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,mysql,git,github,linux,vscode&theme=dark" alt="HTML, CSS, JavaScript, MySQL, Git, GitHub, Linux and VS Code" />
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,vite,mysql,git,github,linux,vscode&theme=dark" alt="TypeScript, JavaScript, HTML, CSS, Vite, MySQL, Git, GitHub, Linux, VS Code" />
 </p>
 
-**Web:** HTML · CSS · Responsive Design · Bootstrap · JavaScript  
-**Data & APIs:** SQL / MySQL · REST APIs · JSON · Fetch  
-**Workflow:** Git · GitHub · VS Code · Linux · Debugging
+- **Frontend & Languages:** TypeScript, JavaScript (ES6+), HTML5, CSS3, Responsive Design, Bootstrap
+- **Testing & Tooling:** Vitest, Vite, npm, Git, GitHub Actions, Linux / CLI
+- **Data & APIs:** SQL / MySQL, REST APIs, JSON, Fetch API, Web Crypto API
+- **Focus Areas:** Client-side privacy (zero server uploads), modular architecture, test-driven reliability
 
-**Exploring through projects:** React · TypeScript · Python · AI-assisted automation
+## 🚀 Featured Open Source Tools
 
-*I'm a student, not an expert in everything listed here. This profile is a record of what I'm learning and building.*
+A collection of client-side utilities engineered with **zero server uploads**, unit tests, and TypeScript:
 
-## 🚀 Selected projects
+| Project | What it does | Tech Stack | Links |
+| :--- | :--- | :--- | :--- |
+| 📄 **FillThisPDF** | Free browser-based PDF form filler with no account or paywall | `TypeScript` · `pdf-lib` · `Vite` | [Try it](https://vtcbelgium.github.io/fillthispdf-web/) · [Source](https://github.com/vtcbelgium/fillthispdf-web) |
+| 🔒 **Base64 Inspector** | Zero-upload Base64 encoder, decoder, and UTF-8 inspector | `TypeScript` · `Vitest` · `Vite` | [Source](https://github.com/vtcbelgium/base64) |
+| 📊 **CSV to JSON** | Fast in-browser CSV & TSV converter with real-time table preview | `TypeScript` · `Vitest` · `Vite` | [Source](https://github.com/vtcbelgium/csvtojson) |
+| 🛡️ **Hash Checker** | Cryptographic hash generator & file checksum verifier (SHA/MD5) | `TypeScript` · `Web Crypto` | [Source](https://github.com/vtcbelgium/hashchecker) |
+| 🔑 **UUID Generator** | RFC 4122 v4 cryptographically secure UUID generator | `TypeScript` · `Vitest` · `Vite` | [Source](https://github.com/vtcbelgium/uuidgen) |
 
-| Project | What it does | Links |
-| --- | --- | --- |
-| 🌍 **World Time** | An interactive world clock with city search and time zones. | [Try it](https://worldtime.othrys.be/) |
-| ⏱️ **Unix Time** | A practical Unix timestamp and date converter. | [Try it](https://unixtime.othrys.be/) |
-| 📄 **FillThisPDF** | A free browser-based PDF form filler, no account required. | [Try it](https://vtcbelgium.github.io/fillthispdf-web/) · [Source](https://github.com/vtcbelgium/fillthispdf-web) |
+### 🌐 Live Web Utilities (OTHRYS)
+- 🌍 [**World Time**](https://worldtime.othrys.be/) — Interactive world clock with time zone search and live comparison.
+- ⏱️ [**Unix Time**](https://unixtime.othrys.be/) — Practical Unix timestamp and date converter.
+- 🖼️ [**Shrink My Photo**](https://vtcbelgium.github.io/shrinkmyphoto-pages/) — Client-side image compression.
+- 📱 [**Free QR**](https://vtcbelgium.github.io/freeqr-pages/) — Quick in-browser QR code generation.
 
-**More small experiments:** [Free QR](https://vtcbelgium.github.io/freeqr-pages/) · [Shrink My Photo](https://vtcbelgium.github.io/shrinkmyphoto-pages/) · [QuickPercent](https://vtcbelgium.github.io/quickpercent-pages/)
+## 🏛️ About OTHRYS
 
-The projects are works in progress and are often built with AI assistance. I use them to practice developing, testing, improving and maintaining real applications.
+[**OTHRYS**](https://othrys.be/) is my personal workshop for building lightweight web utilities and experimenting with automated software workflows. It represents my standard for software: clean, functional, respecting user privacy, and built with craftsmanship.
 
-## 🏛️ OTHRYS
+## 🎯 What I'm currently focused on
 
-[**OTHRYS**](https://othrys.be/) is my personal project space for simple web utilities and experiments with development automation. The tools above are independent projects. Some repositories are private, and the larger automation ideas are still in development.
-
-## 📚 Currently focused on
-
-- Learning to build responsive websites and understand **JavaScript**
-- Working with **REST APIs, JSON and MySQL**
-- Getting better at **Git, pull requests, testing and debugging**
-- Exploring **responsible AI-assisted development**
-
-Beyond technology, I enjoy history, archaeology, cultural heritage and travel. I'm interested in internship opportunities where I can contribute, keep learning and work with an experienced team.
+- Mastering **TypeScript** and modular system architecture
+- Writing reliable **unit and integration tests** with Vitest
+- Working with **relational databases (MySQL)** and scalable REST APIs
+- Deepening my understanding of **responsible, verifiable AI-assisted engineering**
 
 ---
 
+### 🤝 Let's connect!
+
+Beyond coding, I'm passionate about history, cultural heritage, and travel. I am actively looking for **internship opportunities** where I can contribute to real-world codebases, learn from experienced senior developers, and grow as a full-stack engineer.
+
+Feel free to explore my repositories or get in touch via [**vtcbelgium@gmail.com**](mailto:vtcbelgium@gmail.com) or [**othrys.be**](https://othrys.be/).
+
 <div align="center">
 
-**Curiosity brought me here. Building things keeps me learning.**
-
-<sub>Made with Markdown, a little HTML, and a lot of curiosity.</sub>
+<sub>Curiosity brought me here. Building things keeps me learning.</sub>
 
 </div>
